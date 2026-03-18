@@ -1,2 +1,2 @@
 # signum
-Real-time ASL recognition app that translates hand gestures into subtitles using computer vision.
+Signum is a real-time American Sign Language recognition application that uses your webcam to translate hand gestures into on-screen subtitles. Built with OpenCV, MediaPipe, and PyTorch, it tracks hand landmarks frame by frame and classifies them into letters and words. Designed to give people who communicate through sign language a lightweight, accessible tool that works without any special hardware.
